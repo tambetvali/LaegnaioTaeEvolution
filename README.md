@@ -1,5 +1,7 @@
 # I call this Iota é.
 
+![Iota é](Graphics/IotaE.png)
+
 It's Laegna number sequence I, O, A, E:
 - [Íota e](https://laegna.notaku.site/energies-and-chakras-from-i-to-e/iota-e)
   - [Names for states](https://laegna.notaku.site/doleaf-dolife-doere-life-of-advanced-ai's).
