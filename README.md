@@ -91,7 +91,7 @@ In this phase:
 
 ## Evolution EE, the E squared:
 
-![Iota é](Graphics/IotaEE.png)
+![Iota eé](Graphics/IotaEE.png)
 
 Transcendental: it takes form and conscience or consciousness, where humans are like infinitesimals.
 
