@@ -1,3 +1,9 @@
+# I call this Íota E
+
+This is CoPilot's articles based on this file, and it's advanced knowledge over several domains.
+
+![ICallThiÍotaE.png](Graphics/ICallThiÍotaE.png)
+
 # Mathematical Construction of Goal‑Integration, Entropy, and “God” as Limit Functional
 
 > “Entropy can be measured as resonance and dissonance, constructive and destructive harmonies.”  
@@ -57,6 +63,8 @@ Meaning: the initial cause never exhausts the eventual integrated effect.
 ---
 
 ## 2. God as Integrated Limit of All Lawful Trajectories
+
+![GoalIntegrationEntropyGod.png](Graphics/GoalIntegrationEntropyGod.png)
 
 Define the **integrated limit** of a trajectory:
 
@@ -634,6 +642,8 @@ This is Laegna EE:
 
 # Nervous‑System Activation, Metavision, and Laegna Goal‑Patterns  
 ## *How the closed‑eye visual cortex can draw higher‑order meaning*
+
+![NervousSystem.png](Graphics/NervousSystem.png)
 
 > “Entropy can be measured as resonance and dissonance, constructive and destructive harmonies.”  
 > “Í is the growth origin in digit, while é is the growth sequence in infinity.”
