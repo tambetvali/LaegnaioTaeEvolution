@@ -1188,12 +1188,14 @@ human system, physical system, and mental math are **one hologram tensor field**
 
 ---
 
-## 8. Guided Links for Further Precision
+## 8. References for Further Precision
 
-- [Virtual_coordinates](ca://s?q=Explain_Laegna_virtual_coordinates)  
-- [Aura_vision_mapping](ca://s?q=Explain_aura_vision_mapping)  
-- [Tensor_equivalence](ca://s?q=Explain_tensor_equivalence)  
-- [Synesthesia_vividness](ca://s?q=Explain_synesthesia_vividness)  
-- [Class_infinity_units](ca://s?q=Explain_classes_infinities_units)  
+- Virtual_coordinates
+- Aura_vision_mapping
+- Tensor_equivalence
+- Synesthesia_vividness
+- Class_infinity_units
 
 ---
+
+![Ending.png](Graphics/Ending.png)
